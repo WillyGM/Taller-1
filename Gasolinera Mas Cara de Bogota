@@ -1,0 +1,12 @@
+tipo:Extra:21000:1997.6190476190477
+tipo:Corriente:15000:2000.0
+tipo:Diesel:10200:2000.0
+tipo:Premium:25000:0.0
+surtidor:William:Extra:0.0:Corriente:0.0:Diesel:0.0:Premium:0.0
+surtidor:Juancho:Extra:2.380952380952381:Corriente:0.0:Diesel:0.0:Premium:0.0
+surtidor:Claudia:Extra:0.0:Corriente:0.0:Diesel:0.0:Premium:0.0
+surtidor:Claudia:Extra:0.0:Corriente:0.0:Diesel:0.0:Premium:2000.0
+empleado:Claudia:50000000
+empleado:Sofia:0
+empleado:William:0
+empleado:Juancho:50000
